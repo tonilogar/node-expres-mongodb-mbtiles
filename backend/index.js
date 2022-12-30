@@ -6,7 +6,7 @@ const path = require('path')
 const app = express()
 require('./database')
 
-//Setting////
+//Setting//////Setting////
 app.set('port', 3000)
 
 // middlewares
